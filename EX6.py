@@ -4,7 +4,6 @@ speed(0)
 
 for i in range(1,13):
     color("darkblue")
-    pensize(0)
     penup()
     goto(-470+i*70,0)
     pendown()
