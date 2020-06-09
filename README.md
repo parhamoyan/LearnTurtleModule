@@ -10,3 +10,13 @@ This repository has established to help the beginners who are willing to learn T
 ![](img/EX4.png)
 * EX5 :
 ![](img/EX5.png)
+* EX6 :
+![](img/EX6.png)
+* EX7 :
+![](img/EX7.png)
+* EX8 :
+![](img/EX8.png)
+* EX9 :
+![](img/EX9.png)
+* EX10 :
+![](img/EX10.png)
