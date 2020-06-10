@@ -26,3 +26,5 @@ This repository has established to help the beginners who are willing to learn T
 ![](img/EX12.png)
 * EX13 :
 ![](img/EX13.png)
+* EX14 :
+![](img/EX14.png)
