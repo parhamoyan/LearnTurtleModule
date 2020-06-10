@@ -9,6 +9,7 @@ for i in range(1,13):
     pendown()
     begin_fill()
     circle(25, i*30)
+    goto(-470+i*70,25)
     end_fill()
     setheading(0)
     
